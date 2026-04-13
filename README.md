@@ -27,4 +27,4 @@ The analysis shows that social media usage has a relationship with stress levels
 - Scipy
 
 ## How to Run
-Open the notebook file (analysis.ipynb) and run all cells.
+Open the notebook file (dsa.ipynb) and run all cells.

@@ -41,11 +41,16 @@ Therefore, social media usage alone is not enough to strongly predict mental hea
 
 ## Model Interpretation
 
-Feature importance analysis suggests that some variables contributed more strongly to prediction performance than others.
+Feature importance analysis was performed using the Random Forest Regressor model.
 
-Variables related to daily social media usage and sleep patterns showed stronger influence compared to other features. However, no single variable was sufficient to explain mental health outcomes on its own.
+The most influential features included:
+- daily social media usage time,
+- frequency of arguments caused by social media,
+- emotional reactions to social media posts,
+- fear of missing out (FOMO),
+- comparison with others on social media.
 
-This suggests that mental health is a multidimensional problem affected by many interacting factors.
+These findings suggest that emotional and behavioral aspects of social media usage may have a stronger relationship with stress levels than demographic factors alone. However, no single feature was sufficient to strongly predict mental health outcomes on its own, which supports the relatively low R² scores obtained by the models.
 
 ## Conclusion
 
